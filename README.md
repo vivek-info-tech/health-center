@@ -42,18 +42,13 @@ Here is the demo video of the **Medicine Recommendation and Pneumonia Detection 
 
 Here is a demonstration video of the **Medicine Recommendation and Pneumonia Detection System** in action:
 
-<img src=" https://github.com/vivek-info-tech/heath-center/blob/main/uploads/images_1.jpg" alt="Alt text" width="500" height="300">
-<img src="./heath-center/blob/main/uploads/images_1.jpg" alt="Alt text" width="500" height="300">
-<img src=" ./blob/main/uploads/images_1.jpg" alt="Alt text" width="500" height="300">
+<img src=" ./uploads/images_1.jpg" alt="Alt text" width="500" height="300">
+<img src="./uploads/images_1.jpg" alt="Alt text" width="500" height="300">
+<img src=" ./uploads/images_1.jpg" alt="Alt text" width="500" height="300">
 <img src=" ./main/uploads/images_1.jpg" alt="Alt text" width="500" height="300">
 <img src="./uploads/images_1.jpg" alt="Alt text" width="500" height="300">
 
-Alternatively, you can download and watch the video directly:
-
-!(./heath-center/blob/main/uploads/images_1.jpg)
-!(./vivek-info-tech/heath-center/blob/main/uploads/images_1.jpg)
-!(./main/uploads/images_1.jpg)
-!(./blob/main/uploads/images_1.jpg)
+ 
 
 
 ## **Installation & Setup**
