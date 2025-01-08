@@ -42,10 +42,10 @@ Here is the demo video of the **Medicine Recommendation and Pneumonia Detection 
 
 Here is a demonstration video of the **Medicine Recommendation and Pneumonia Detection System** in action:
 
-<img src=" ./uploads/images_1.jpg" alt="Alt text" width="500" height="300">
 <img src="./uploads/images_1.jpg" alt="Alt text" width="500" height="300">
-<img src=" ./uploads/images_1.jpg" alt="Alt text" width="500" height="300">
-<img src=" ./main/uploads/images_1.jpg" alt="Alt text" width="500" height="300">
+<img src="./uploads/images_1.jpg" alt="Alt text" width="500" height="300">
+<img src="./uploads/images_1.jpg" alt="Alt text" width="500" height="300">
+<img src="./main/uploads/images_1.jpg" alt="Alt text" width="500" height="300">
 <img src="./uploads/images_1.jpg" alt="Alt text" width="500" height="300">
 
  
