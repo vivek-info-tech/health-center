@@ -36,10 +36,10 @@ Here is a demonstration video of the **Medicine Recommendation and Pneumonia Det
 
 Alternatively, you can download and watch the video directly:
 
-(./heath-center/blob/main/uploads/images_1.jpg)
-(./vivek-info-tech/heath-center/blob/main/uploads/images_1.jpg)
-(./main/uploads/images_1.jpg)
-(./blob/main/uploads/images_1.jpg)
+!(./heath-center/blob/main/uploads/images_1.jpg)
+!(./vivek-info-tech/heath-center/blob/main/uploads/images_1.jpg)
+!(./main/uploads/images_1.jpg)
+!(./blob/main/uploads/images_1.jpg)
 
 
 ## **Installation & Setup**
