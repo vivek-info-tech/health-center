@@ -1,5 +1,16 @@
 # **Medicine Recommendation and Pneumonia Detection System**
 
+
+## **Results**
+
+Here is the demo video of the **Medicine Recommendation and Pneumonia Detection System**:
+
+<video width="640" height="360" controls>
+  <source src="./static/assets/result.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
 ## **Overview**
 The **Medicine Recommendation and Pneumonia Detection System** is an integrated healthcare solution that provides personalized medicine recommendations based on symptoms and predicts pneumonia from X-ray images using deep learning. The project combines a **Support Vector Machine (SVM)** model for disease prediction and **VGG19** for pneumonia detection, with a user-friendly web interface for interaction.
 
@@ -27,15 +38,6 @@ The **Medicine Recommendation and Pneumonia Detection System** is an integrated 
 - **Frontend**: HTML, CSS, JavaScript, Bootstrap
 - **Deep Learning**: VGG19 (pretrained model)
 - **Libraries/Tools**: NumPy, Pandas, OpenCV, Flask
-
-## **Results**
-
-Here is the demo video of the **Medicine Recommendation and Pneumonia Detection System**:
-
-<video width="640" height="360" controls>
-  <source src="assets/demo_video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 
 ## **Results**
