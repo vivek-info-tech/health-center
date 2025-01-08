@@ -30,9 +30,23 @@ The **Medicine Recommendation and Pneumonia Detection System** is an integrated 
 
 ## **Results**
 
+Here is the demo video of the **Medicine Recommendation and Pneumonia Detection System**:
+
+<video width="640" height="360" controls>
+  <source src="assets/demo_video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
+## **Results**
+
 Here is a demonstration video of the **Medicine Recommendation and Pneumonia Detection System** in action:
 
-(https://github.com/vivek-info-tech/heath-center/blob/main/uploads/images_1.jpg)
+<img src=" https://github.com/vivek-info-tech/heath-center/blob/main/uploads/images_1.jpg" alt="Alt text" width="500" height="300">
+<img src="./heath-center/blob/main/uploads/images_1.jpg" alt="Alt text" width="500" height="300">
+<img src=" ./blob/main/uploads/images_1.jpg" alt="Alt text" width="500" height="300">
+<img src=" ./main/uploads/images_1.jpg" alt="Alt text" width="500" height="300">
+<img src="./uploads/images_1.jpg" alt="Alt text" width="500" height="300">
 
 Alternatively, you can download and watch the video directly:
 
