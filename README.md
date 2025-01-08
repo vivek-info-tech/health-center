@@ -28,6 +28,17 @@ The **Medicine Recommendation and Pneumonia Detection System** is an integrated 
 - **Deep Learning**: VGG19 (pretrained model)
 - **Libraries/Tools**: NumPy, Pandas, OpenCV, Flask
 
+## **Results**
+
+Here is a demonstration video of the **Medicine Recommendation and Pneumonia Detection System** in action:
+
+(https://github.com/vivek-info-tech/heath-center/blob/main/uploads/images_1.jpg)
+
+Alternatively, you can download and watch the video directly:
+
+(./main/uploads/images_1.jpg)
+
+
 ## **Installation & Setup**
 1. Clone the repository:
    ```bash
