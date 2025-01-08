@@ -3,10 +3,15 @@
 
 ## **Results**
 
-Here is the demo video of the **Medicine Recommendation and Pneumonia Detection System**:
+Here is the result video of the **Medicine Recommendation and Pneumonia Detection System**:
+
+
+[![Result]( https://github.com/vivek-info-tech/health-center/blob/main/static/assets/home.png)]( https://github.com/user-attachments/assets/3d23d2cc-2451-4657-baa0-ce43706418ca)
+![](https://github.com/user-attachments/assets/3d23d2cc-2451-4657-baa0-ce43706418ca)
+
 
 <video width="640" height="360" controls>
-  <source src="/static/assets/result.mp4" type="video/mp4">
+  <source src="https://github.com/user-attachments/assets/3d23d2cc-2451-4657-baa0-ce43706418ca" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
@@ -44,11 +49,10 @@ The **Medicine Recommendation and Pneumonia Detection System** is an integrated 
 
 Here is a demonstration video of the **Medicine Recommendation and Pneumonia Detection System** in action:
 
-<img src=" ./uploads/images_1.jpg" alt="Alt text" width="500" height="300">
-<img src=" ./uploads/images_1.jpg" alt="Alt text" width="500" height="300">
-<img src=" ./uploads/images_1.jpg" alt="Alt text" width="500" height="300">
-<img src=" ./main/uploads/images_1.jpg" alt="Alt text" width="500" height="300">
-<img src=" ./uploads/images_1.jpg" alt="Alt text" width="500" height="300">
+<img src="./static/assets/home.png" alt="Alt text" width="500" height="300">
+<img src="./static/assets/svm.png" alt="Alt text" width="500" height="300">
+<img src="./static/assets/vgg.png" alt="Alt text" width="500" height="300">
+ 
 
  
 
